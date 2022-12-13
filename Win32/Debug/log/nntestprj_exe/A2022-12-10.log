@@ -1,0 +1,895 @@
+nnTestPrj.exe: 00004A08: 18:48:09 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 00004A08: 18:48:09 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 00004A08: 18:48:09 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 00004A08: 18:48:09 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 00004A08: 18:48:09 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 00004A08: 18:48:57 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 00004A08: 18:48:57 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 00004A08: 18:48:58 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 00004A08: 18:48:58 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 00004A08: 18:48:58 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 00004A08: 18:48:58 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 00004A08: 18:48:58 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 00004A08: 18:48:58 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 00004A08: 18:48:58 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 00004A08: 18:48:58 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 00004A08: 18:48:58 [Terminated]:Exit Code: 0
+nnTestPrj.exe: 00003A20: 19:32:21 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 00003A20: 19:32:21 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 00003A20: 19:32:21 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 00003A20: 19:32:22 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 00003A20: 19:32:22 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 0000284C: 19:32:59 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 0000284C: 19:32:59 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 0000284C: 19:32:59 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 0000284C: 19:32:59 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+nnTestPrj.exe: 0000284C: 19:32:59 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 0000284C: 19:32:59 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 00003200: 19:34:47 [127.0.0.1]:EReadError : Error reading uniConn.SpecificOptions.Strings: MySQL provider is not registered. You should add the MySQLUniProvider unit to the uses clause of any unit in your project or place the TMySQLUniProvider component on the form. : Addr: $005313FC
+nnTestPrj.exe: 00003200: 19:34:54 [Access violation at address 009C97AC in module 'nnTestPrj.exe'. Write of address 00000074-127.0.0.1]:EAccessViolation : Access violation at address 009C97AC in module 'nnTestPrj.exe'. Write of address 00000074 : Addr: $009C97AC
+nnTestPrj.exe: 00002660: 19:35:29 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 00002660: 19:35:29 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 00002660: 19:35:29 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 00002660: 19:35:29 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+nnTestPrj.exe: 00002660: 19:35:29 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 00002660: 19:35:29 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 00003844: 19:35:44 [127.0.0.1]:EReadError : Error reading uniConn.SpecificOptions.Strings: MySQL provider is not registered. You should add the MySQLUniProvider unit to the uses clause of any unit in your project or place the TMySQLUniProvider component on the form. : Addr: $005313FC
+nnTestPrj.exe: 00003844: 19:35:46 [Access violation at address 009C97AC in module 'nnTestPrj.exe'. Write of address 00000074-127.0.0.1]:EAccessViolation : Access violation at address 009C97AC in module 'nnTestPrj.exe'. Write of address 00000074 : Addr: $009C97AC
+nnTestPrj.exe: 0000213C: 19:36:37 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 0000213C: 19:36:37 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 0000213C: 19:36:37 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 0000213C: 19:36:37 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+nnTestPrj.exe: 0000213C: 19:36:37 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 0000213C: 19:36:37 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 0000439C: 19:36:51 [127.0.0.1]:EReadError : Error reading uniConn.SpecificOptions.Strings: MySQL provider is not registered. You should add the MySQLUniProvider unit to the uses clause of any unit in your project or place the TMySQLUniProvider component on the form. : Addr: $005313FC
+nnTestPrj.exe: 0000439C: 19:36:54 [Access violation at address 009C97AC in module 'nnTestPrj.exe'. Write of address 00000074-127.0.0.1]:EAccessViolation : Access violation at address 009C97AC in module 'nnTestPrj.exe'. Write of address 00000074 : Addr: $009C97AC
+nnTestPrj.exe: 00002E6C: 19:37:08 [127.0.0.1]:EReadError : Error reading uniConn.SpecificOptions.Strings: MySQL provider is not registered. You should add the MySQLUniProvider unit to the uses clause of any unit in your project or place the TMySQLUniProvider component on the form. : Addr: $005313FC
+nnTestPrj.exe: 00002E6C: 19:37:14 [Access violation at address 009C97AC in module 'nnTestPrj.exe'. Write of address 00000074-127.0.0.1]:EAccessViolation : Access violation at address 009C97AC in module 'nnTestPrj.exe'. Write of address 00000074 : Addr: $009C97AC
+nnTestPrj.exe: 0000213C: 19:37:25 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 0000213C: 19:37:25 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 0000213C: 19:37:26 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 0000213C: 19:37:26 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 0000213C: 19:37:26 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 0000213C: 19:37:26 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 0000213C: 19:37:26 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 0000213C: 19:37:26 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 0000213C: 19:37:26 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 0000213C: 19:37:26 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 0000213C: 19:37:26 [Terminated]:Exit Code: 0
+nnTestPrj.exe: 00002590: 19:38:21 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 00002590: 19:38:21 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 00002590: 19:38:21 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 00002590: 19:38:21 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 00002590: 19:38:21 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 00000798: 19:38:30 [127.0.0.1]:EReadError : Error reading uniConn.SpecificOptions.Strings: MySQL provider is not registered. You should add the MySQLUniProvider unit to the uses clause of any unit in your project or place the TMySQLUniProvider component on the form. : Addr: $005313FC
+nnTestPrj.exe: 00000798: 19:38:39 [Access violation at address 009C97A3 in module 'nnTestPrj.exe'. Write of address 00000074-127.0.0.1]:EAccessViolation : Access violation at address 009C97A3 in module 'nnTestPrj.exe'. Write of address 00000074 : Addr: $009C97A3
+nnTestPrj.exe: 00001858: 19:43:48 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 00001858: 19:43:48 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 00001858: 19:43:48 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 00001858: 19:43:48 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+nnTestPrj.exe: 00001858: 19:43:48 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 00001858: 19:43:48 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 00002510: 19:43:56 [127.0.0.1]:EReadError : Error reading uniConn.SpecificOptions.Strings: MySQL provider is not registered. You should add the MySQLUniProvider unit to the uses clause of any unit in your project or place the TMySQLUniProvider component on the form. : Addr: $004C0A74
+nnTestPrj.exe: 00002510: 19:43:59 [Access violation at address 00959770 in module 'nnTestPrj.exe'. Write of address 00000074-127.0.0.1]:EAccessViolation : Access violation at address 00959770 in module 'nnTestPrj.exe'. Write of address 00000074 : Addr: $00959770
+nnTestPrj.exe: 00001F2C: 19:45:20 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 00001F2C: 19:45:20 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 00001F2C: 19:45:20 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 00001F2C: 19:45:20 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+nnTestPrj.exe: 00001F2C: 19:45:20 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 00001F2C: 19:45:20 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 00000BC8: 19:45:34 [127.0.0.1]:EReadError : Error reading uniConn.SpecificOptions.Strings: MySQL provider is not registered. You should add the MySQLUniProvider unit to the uses clause of any unit in your project or place the TMySQLUniProvider component on the form. : Addr: $004C0A74
+nnTestPrj.exe: 00000BC8: 19:45:40 [Access violation at address 00959770 in module 'nnTestPrj.exe'. Write of address 00000074-127.0.0.1]:EAccessViolation : Access violation at address 00959770 in module 'nnTestPrj.exe'. Write of address 00000074 : Addr: $00959770
+nnTestPrj.exe: 00001E5C: 19:45:51 [127.0.0.1]:EReadError : Error reading uniConn.SpecificOptions.Strings: MySQL provider is not registered. You should add the MySQLUniProvider unit to the uses clause of any unit in your project or place the TMySQLUniProvider component on the form. : Addr: $004C0A74
+nnTestPrj.exe: 00001E5C: 19:45:59 [Access violation at address 00959770 in module 'nnTestPrj.exe'. Write of address 00000074-127.0.0.1]:EAccessViolation : Access violation at address 00959770 in module 'nnTestPrj.exe'. Write of address 00000074 : Addr: $00959770
+nnTestPrj.exe: 00001F2C: 19:46:09 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 00001F2C: 19:46:09 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 00001F2C: 19:46:10 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 00001F2C: 19:46:10 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 00001F2C: 19:46:10 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 00001F2C: 19:46:10 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 00001F2C: 19:46:10 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 00001F2C: 19:46:10 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 00001F2C: 19:46:10 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 00001F2C: 19:46:10 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 00001F2C: 19:46:10 [Terminated]:Exit Code: 0
+nnTestPrj.exe: 00000DC8: 19:48:47 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 00000DC8: 19:48:47 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 00000DC8: 19:48:47 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 00000DC8: 19:48:47 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 00000DC8: 19:48:47 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 0000317C: 19:48:52 [127.0.0.1]:EReadError : Error reading uniConn.SpecificOptions.Strings: MySQL provider is not registered. You should add the MySQLUniProvider unit to the uses clause of any unit in your project or place the TMySQLUniProvider component on the form. : Addr: $004C0A74
+nnTestPrj.exe: 0000317C: 19:49:03 [Access violation at address 00959770 in module 'nnTestPrj.exe'. Write of address 00000074-127.0.0.1]:EAccessViolation : Access violation at address 00959770 in module 'nnTestPrj.exe'. Write of address 00000074 : Addr: $00959770
+nnTestPrj.exe: 00000DC8: 19:49:13 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 00000DC8: 19:49:13 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 00000DC8: 19:49:14 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 00000DC8: 19:49:14 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 00000DC8: 19:49:14 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 00000DC8: 19:49:14 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 00000DC8: 19:49:14 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 00000DC8: 19:49:14 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 00000DC8: 19:49:14 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 00000DC8: 19:49:14 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 00000DC8: 19:49:14 [Terminated]:Exit Code: 0
+nnTestPrj.exe: 00003AF8: 19:51:18 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 00003AF8: 19:51:18 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 00003AF8: 19:51:18 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 00003AF8: 19:51:18 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 00003AF8: 19:51:18 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 00001F28: 19:52:03 [127.0.0.1]:EReadError : Error reading uniConn.SpecificOptions.Strings: MySQL provider is not registered. You should add the MySQLUniProvider unit to the uses clause of any unit in your project or place the TMySQLUniProvider component on the form. : Addr: $004C0A74
+nnTestPrj.exe: 00001F28: 19:52:03 [Access violation at address 00959770 in module 'nnTestPrj.exe'. Write of address 00000074-127.0.0.1]:EAccessViolation : Access violation at address 00959770 in module 'nnTestPrj.exe'. Write of address 00000074 : Addr: $00959770
+nnTestPrj.exe: 000036D8: 19:53:18 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 000036D8: 19:53:18 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 000036D8: 19:53:18 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 000036D8: 19:53:18 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+nnTestPrj.exe: 000036D8: 19:53:18 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 000036D8: 19:53:18 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 00001F14: 19:53:24 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00784007
+nnTestPrj.exe: 00004E2C: 19:53:24 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00784007
+nnTestPrj.exe: 00002B5C: 19:53:36 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00784007
+nnTestPrj.exe: 000040A4: 19:53:36 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00784007
+nnTestPrj.exe: 000004E4: 19:53:36 [Access violation at address 00959770 in module 'nnTestPrj.exe'. Write of address 00000074-127.0.0.1]:EAccessViolation : Access violation at address 00959770 in module 'nnTestPrj.exe'. Write of address 00000074 : Addr: $00959770
+nnTestPrj.exe: 00004D18: 19:54:19 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 00004D18: 19:54:19 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 00004D18: 19:54:19 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 00004D18: 19:54:19 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+nnTestPrj.exe: 00004D18: 19:54:19 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 00004D18: 19:54:19 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 00000E40: 19:54:25 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00784007
+nnTestPrj.exe: 000042F8: 19:54:25 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00784007
+nnTestPrj.exe: 00003944: 19:54:26 [Access violation at address 00959770 in module 'nnTestPrj.exe'. Write of address 00000074-127.0.0.1]:EAccessViolation : Access violation at address 00959770 in module 'nnTestPrj.exe'. Write of address 00000074 : Addr: $00959770
+nnTestPrj.exe: 00004D18: 19:54:40 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 00004D18: 19:54:40 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 00004D18: 19:54:41 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 00004D18: 19:54:41 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 00004D18: 19:54:41 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 00004D18: 19:54:41 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 00004D18: 19:54:41 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 00004D18: 19:54:41 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 00004D18: 19:54:41 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 00004D18: 19:54:41 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 00004D18: 19:54:41 [Terminated]:Exit Code: 0
+nnTestPrj.exe: 00003884: 19:59:20 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 00003884: 19:59:20 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 00003884: 19:59:20 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 00003884: 19:59:21 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 00003884: 19:59:21 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 00003884: 19:59:39 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 00003884: 19:59:39 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 00003884: 19:59:40 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 00003884: 19:59:40 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 00003884: 19:59:40 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 00003884: 19:59:40 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 00003884: 19:59:40 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 00003884: 19:59:40 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 00003884: 19:59:40 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 00003884: 19:59:40 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 00003884: 19:59:40 [Terminated]:Exit Code: 0
+nnTestPrj.exe: 00002494: 19:59:52 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 00002494: 19:59:52 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 00002494: 19:59:52 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 00002494: 19:59:52 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 00002494: 19:59:52 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 00002494: 20:00:14 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 00002494: 20:00:14 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 00002494: 20:00:15 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 00002494: 20:00:15 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 00002494: 20:00:15 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 00002494: 20:00:15 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 00002494: 20:00:15 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 00002494: 20:00:15 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 00002494: 20:00:15 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 00002494: 20:00:15 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 00002494: 20:00:15 [Terminated]:Exit Code: 0
+nnTestPrj.exe: 000046D0: 20:01:49 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 000046D0: 20:01:49 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 000046D0: 20:01:49 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 000046D0: 20:01:49 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 000046D0: 20:01:49 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 000046D0: 20:02:03 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 000046D0: 20:02:03 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 000046D0: 20:02:04 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 000046D0: 20:02:04 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 000046D0: 20:02:04 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 000046D0: 20:02:04 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 000046D0: 20:02:04 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 000046D0: 20:02:04 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 000046D0: 20:02:04 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 000046D0: 20:02:04 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 000046D0: 20:02:04 [Terminated]:Exit Code: 0
+nnTestPrj.exe: 000027AC: 20:26:02 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 000027AC: 20:26:02 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 000027AC: 20:26:02 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 000027AC: 20:26:02 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 000027AC: 20:26:02 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 000027AC: 20:26:39 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 000027AC: 20:26:39 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 000027AC: 20:26:40 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 000027AC: 20:26:40 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 000027AC: 20:26:40 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 000027AC: 20:26:40 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 000027AC: 20:26:40 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 000027AC: 20:26:40 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 000027AC: 20:26:40 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 000027AC: 20:26:40 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 000027AC: 20:26:40 [Terminated]:Exit Code: 0
+nnTestPrj.exe: 0000103C: 20:28:29 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 0000103C: 20:28:29 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 0000103C: 20:28:29 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 0000103C: 20:28:29 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 0000103C: 20:28:29 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 0000103C: 20:29:00 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 0000103C: 20:29:00 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 0000103C: 20:29:01 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 0000103C: 20:29:01 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 0000103C: 20:29:01 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 0000103C: 20:29:01 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 0000103C: 20:29:01 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 0000103C: 20:29:01 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 0000103C: 20:29:01 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 0000103C: 20:29:01 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 0000103C: 20:29:01 [Terminated]:Exit Code: 0
+nnTestPrj.exe: 00004708: 20:32:00 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 00004708: 20:32:00 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 00004708: 20:32:00 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 00004708: 20:32:00 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 00004708: 20:32:00 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 00004708: 20:32:12 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 00004708: 20:32:12 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 00004708: 20:32:13 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 00004708: 20:32:13 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 00004708: 20:32:13 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 00004708: 20:32:13 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 00004708: 20:32:13 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 00004708: 20:32:13 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 00004708: 20:32:13 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 00004708: 20:32:13 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 00004708: 20:32:13 [Terminated]:Exit Code: 0
+nnTestPrj.exe: 0000304C: 20:33:37 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 0000304C: 20:33:37 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 0000304C: 20:33:37 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 0000304C: 20:33:37 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 0000304C: 20:33:37 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 0000304C: 20:34:17 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 0000304C: 20:34:17 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 0000304C: 20:34:18 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 0000304C: 20:34:18 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 0000304C: 20:34:18 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 0000304C: 20:34:18 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 0000304C: 20:34:18 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 0000304C: 20:34:18 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 0000304C: 20:34:18 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 0000304C: 20:34:18 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 0000304C: 20:34:18 [Terminated]:Exit Code: 0
+nnTestPrj.exe: 000048D8: 20:36:02 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 000048D8: 20:36:02 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 000048D8: 20:36:02 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 000048D8: 20:36:02 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 000048D8: 20:36:02 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 000048D8: 20:36:18 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 000048D8: 20:36:18 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 000048D8: 20:36:19 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 000048D8: 20:36:19 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 000048D8: 20:36:19 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 000048D8: 20:36:19 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 000048D8: 20:36:24 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 000048D8: 20:36:24 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 000048D8: 20:36:24 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 000048D8: 20:36:24 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 000048D8: 20:36:24 [Terminated]:Exit Code: 0
+nnTestPrj.exe: 000005F8: 20:37:01 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 000005F8: 20:37:01 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 000005F8: 20:37:01 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 000005F8: 20:37:02 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 000005F8: 20:37:02 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 000005F8: 20:37:13 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 000005F8: 20:37:13 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 000005F8: 20:37:14 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 000005F8: 20:37:14 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 000005F8: 20:37:14 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 000005F8: 20:37:14 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 000005F8: 20:37:14 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 000005F8: 20:37:14 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 000005F8: 20:37:14 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 000005F8: 20:37:14 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 000005F8: 20:37:14 [Terminated]:Exit Code: 0
+nnTestPrj.exe: 000044FC: 20:38:33 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 000044FC: 20:38:33 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 000044FC: 20:38:33 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 000044FC: 20:38:33 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 000044FC: 20:38:33 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 000044FC: 20:38:48 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 000044FC: 20:38:48 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 000044FC: 20:38:49 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 000044FC: 20:38:49 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 000044FC: 20:38:49 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 000044FC: 20:38:49 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 000044FC: 20:38:49 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 000044FC: 20:38:49 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 000044FC: 20:38:49 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 000044FC: 20:38:49 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 000044FC: 20:38:49 [Terminated]:Exit Code: 0
+nnTestPrj.exe: 000027C0: 20:40:25 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 000027C0: 20:40:25 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 000027C0: 20:40:25 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 000027C0: 20:40:25 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 000027C0: 20:40:25 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 000027C0: 20:40:36 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 000027C0: 20:40:36 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 000027C0: 20:40:37 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 000027C0: 20:40:37 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 000027C0: 20:40:37 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 000027C0: 20:40:37 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 000027C0: 20:40:37 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 000027C0: 20:40:37 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 000027C0: 20:40:37 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 000027C0: 20:40:37 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 000027C0: 20:40:37 [Terminated]:Exit Code: 0
+nnTestPrj.exe: 00002B40: 20:41:44 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 00002B40: 20:41:44 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 00002B40: 20:41:44 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 00002B40: 20:41:44 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 00002B40: 20:41:44 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 00002B40: 20:41:54 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 00002B40: 20:41:54 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 00002B40: 20:41:55 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 00002B40: 20:41:55 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 00002B40: 20:41:55 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 00002B40: 20:41:55 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 00002B40: 20:41:55 [TUniGUISessionManager]:Waiting for session manager thread...
+nnTestPrj.exe: 000030B4: 20:43:05 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 000030B4: 20:43:05 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 000030B4: 20:43:05 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 000030B4: 20:43:05 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+nnTestPrj.exe: 000030B4: 20:43:05 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 000030B4: 20:43:05 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 000030B4: 20:43:24 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 000030B4: 20:43:24 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 000030B4: 20:43:25 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 000030B4: 20:43:25 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 000030B4: 20:43:25 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 000030B4: 20:43:25 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 000030B4: 20:43:25 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 000030B4: 20:43:25 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 000030B4: 20:43:25 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 000030B4: 20:43:25 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 000030B4: 20:43:25 [Terminated]:Exit Code: 0
+nnTestPrj.exe: 00001FB4: 20:43:55 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 00001FB4: 20:43:55 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 00001FB4: 20:43:55 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 00001FB4: 20:43:55 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 00001FB4: 20:43:55 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 00001FB4: 20:44:03 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 00001FB4: 20:44:03 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 00001FB4: 20:44:04 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 00001FB4: 20:44:04 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 00001FB4: 20:44:04 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 00001FB4: 20:44:04 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 00001FB4: 20:44:04 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 00001FB4: 20:44:04 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 00001FB4: 20:44:04 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 00001FB4: 20:44:04 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 00001FB4: 20:44:04 [Terminated]:Exit Code: 0
+nnTestPrj.exe: 00004E60: 20:44:11 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 00004E60: 20:44:11 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 00004E60: 20:44:11 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 00004E60: 20:44:11 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 00004E60: 20:44:11 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 00004E60: 20:44:22 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 00004E60: 20:44:22 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 00004E60: 20:44:23 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 00004E60: 20:44:23 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 00004E60: 20:44:23 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 00004E60: 20:44:23 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 00004E60: 20:44:23 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 00004E60: 20:44:23 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 00004E60: 20:44:23 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 00004E60: 20:44:23 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 00004E60: 20:44:23 [Terminated]:Exit Code: 0
+nnTestPrj.exe: 00002DF0: 20:45:59 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 00002DF0: 20:45:59 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 00002DF0: 20:45:59 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 00002DF0: 20:45:59 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 00002DF0: 20:45:59 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 00002DF0: 20:46:18 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 00002DF0: 20:46:18 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 00002DF0: 20:46:19 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 00002DF0: 20:46:19 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 00002DF0: 20:46:19 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 00002DF0: 20:46:19 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 00002DF0: 20:46:19 [TUniGUISessionManager]:Waiting for session manager thread...
+nnTestPrj.exe: 000022C4: 20:46:42 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 000022C4: 20:46:42 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 000022C4: 20:46:42 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 000022C4: 20:46:42 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+nnTestPrj.exe: 000022C4: 20:46:42 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 000022C4: 20:46:42 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 000022C4: 20:46:58 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 000022C4: 20:46:58 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 000022C4: 20:47:00 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 000022C4: 20:47:00 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 000022C4: 20:47:00 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 000022C4: 20:47:00 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 000022C4: 20:47:00 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 000022C4: 20:47:00 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 000022C4: 20:47:00 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 000022C4: 20:47:00 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 000022C4: 20:47:00 [Terminated]:Exit Code: 0
+nnTestPrj.exe: 00004A48: 20:47:36 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 00004A48: 20:47:36 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 00004A48: 20:47:36 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 00004A48: 20:47:36 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 00004A48: 20:47:36 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 00004A48: 20:47:50 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 00004A48: 20:47:50 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 00004A48: 20:47:51 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 00004A48: 20:47:51 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 00004A48: 20:47:51 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 00004A48: 20:47:51 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 00004A48: 20:47:51 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 00004A48: 20:47:51 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 00004A48: 20:47:51 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 00004A48: 20:47:51 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 00004A48: 20:47:51 [Terminated]:Exit Code: 0
+nnTestPrj.exe: 000048BC: 20:49:20 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 000048BC: 20:49:20 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 000048BC: 20:49:20 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 000048BC: 20:49:20 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 000048BC: 20:49:20 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 000048BC: 20:49:35 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 000048BC: 20:49:35 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 000048BC: 20:49:36 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 000048BC: 20:49:36 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 000048BC: 20:49:36 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 000048BC: 20:49:36 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 000048BC: 20:49:36 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 000048BC: 20:49:36 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 000048BC: 20:49:36 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 000048BC: 20:49:36 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 000048BC: 20:49:36 [Terminated]:Exit Code: 0
+nnTestPrj.exe: 00002C54: 20:50:37 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 00002C54: 20:50:37 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 00002C54: 20:50:37 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 00002C54: 20:50:37 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 00002C54: 20:50:37 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 00002C54: 20:50:56 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 00002C54: 20:50:56 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 00002C54: 20:50:57 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 00002C54: 20:50:57 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 00002C54: 20:50:57 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 00002C54: 20:50:58 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 00002C54: 20:50:58 [TUniGUISessionManager]:Waiting for session manager thread...
+nnTestPrj.exe: 0000396C: 20:51:10 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 0000396C: 20:51:10 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 0000396C: 20:51:10 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 0000396C: 20:51:10 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+nnTestPrj.exe: 0000396C: 20:51:10 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 0000396C: 20:51:10 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 0000396C: 20:51:33 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 0000396C: 20:51:33 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 0000396C: 20:51:34 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 0000396C: 20:51:34 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 0000396C: 20:51:34 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 0000396C: 20:51:34 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 0000396C: 20:51:34 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 0000396C: 20:51:34 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 0000396C: 20:51:34 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 0000396C: 20:51:34 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 0000396C: 20:51:34 [Terminated]:Exit Code: 0
+nnTestPrj.exe: 00000928: 20:51:55 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 00000928: 20:51:55 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 00000928: 20:51:55 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 00000928: 20:51:55 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 00000928: 20:51:55 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 00000928: 20:52:09 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 00000928: 20:52:09 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 00000928: 20:52:10 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 00000928: 20:52:10 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 00000928: 20:52:10 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 00000928: 20:52:10 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 00000928: 20:52:10 [TUniGUISessionManager]:Waiting for session manager thread...
+nnTestPrj.exe: 000017A4: 20:52:39 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 000017A4: 20:52:39 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 000017A4: 20:52:39 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 000017A4: 20:52:39 [TUniServerModule]:Global Cache Folder Erased. <4> Files deleted.
+nnTestPrj.exe: 000017A4: 20:52:39 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 000017A4: 20:52:39 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 000017A4: 20:53:01 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 000017A4: 20:53:01 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 000017A4: 20:53:03 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 000017A4: 20:53:03 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 000017A4: 20:53:03 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 000017A4: 20:53:03 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 000017A4: 20:53:03 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 000017A4: 20:53:03 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 000017A4: 20:53:03 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 000017A4: 20:53:03 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 000017A4: 20:53:03 [Terminated]:Exit Code: 0
+nnTestPrj.exe: 0000296C: 20:55:06 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 0000296C: 20:55:06 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 0000296C: 20:55:06 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 0000296C: 20:55:06 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 0000296C: 20:55:06 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 0000296C: 20:55:19 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 0000296C: 20:55:19 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 0000296C: 20:55:20 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 0000296C: 20:55:20 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 0000296C: 20:55:20 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 0000296C: 20:55:20 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 0000296C: 20:55:20 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 0000296C: 20:55:20 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 0000296C: 20:55:20 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 0000296C: 20:55:20 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 0000296C: 20:55:20 [Terminated]:Exit Code: 0
+nnTestPrj.exe: 00004504: 20:55:37 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 00004504: 20:55:37 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 00004504: 20:55:37 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 00004504: 20:55:37 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 00004504: 20:55:37 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 00004504: 20:55:49 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 00004504: 20:55:49 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 00004504: 20:55:50 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 00004504: 20:55:50 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 00004504: 20:55:50 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 00004504: 20:55:50 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 00004504: 20:55:50 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 00004504: 20:55:50 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 00004504: 20:55:50 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 00004504: 20:55:50 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 00004504: 20:55:50 [Terminated]:Exit Code: 0
+nnTestPrj.exe: 00004774: 20:56:55 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 00004774: 20:56:55 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 00004774: 20:56:55 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 00004774: 20:56:55 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 00004774: 20:56:55 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 00004774: 20:57:19 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 00004774: 20:57:19 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 00004774: 20:57:21 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 00004774: 20:57:21 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 00004774: 20:57:21 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 00004774: 20:57:21 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 00004774: 20:57:21 [TUniGUISessionManager]:Waiting for session manager thread...
+nnTestPrj.exe: 000042D4: 20:57:43 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 000042D4: 20:57:43 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 000042D4: 20:57:43 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 000042D4: 20:57:43 [TUniServerModule]:Global Cache Folder Erased. <4> Files deleted.
+nnTestPrj.exe: 000042D4: 20:57:43 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 000042D4: 20:57:43 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 000042D4: 20:58:16 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 000042D4: 20:58:16 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 000042D4: 20:58:17 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 000042D4: 20:58:17 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 000042D4: 20:58:17 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 000042D4: 20:58:17 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 000042D4: 20:58:23 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 000042D4: 20:58:23 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 000042D4: 20:58:23 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 000042D4: 20:58:23 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 000042D4: 20:58:23 [Terminated]:Exit Code: 0
+nnTestPrj.exe: 00002E7C: 20:59:02 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 00002E7C: 20:59:02 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 00002E7C: 20:59:02 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 00002E7C: 20:59:02 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 00002E7C: 20:59:02 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 00002E7C: 20:59:22 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 00002E7C: 20:59:22 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 00002E7C: 20:59:23 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 00002E7C: 20:59:23 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 00002E7C: 20:59:23 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 00002E7C: 20:59:23 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 00002E7C: 20:59:23 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 00002E7C: 20:59:23 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 00002E7C: 20:59:23 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 00002E7C: 20:59:23 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 00002E7C: 20:59:23 [Terminated]:Exit Code: 0
+nnTestPrj.exe: 00004E7C: 21:08:17 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 00004E7C: 21:08:17 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 00004E7C: 21:08:17 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 00004E7C: 21:08:17 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 00004E7C: 21:08:17 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 00004E7C: 21:08:32 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 00004E7C: 21:08:32 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 00004E7C: 21:08:33 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 00004E7C: 21:08:33 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 00004E7C: 21:08:33 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 00004E7C: 21:08:33 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 00004E7C: 21:08:33 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 00004E7C: 21:08:33 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 00004E7C: 21:08:33 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 00004E7C: 21:08:33 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 00004E7C: 21:08:33 [Terminated]:Exit Code: 0
+nnTestPrj.exe: 00002EE0: 21:34:15 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 00002EE0: 21:34:15 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 00002EE0: 21:34:15 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 00002EE0: 21:34:15 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 00002EE0: 21:34:15 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 00002EE0: 21:34:29 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 00002EE0: 21:34:29 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 00002EE0: 21:34:30 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 00002EE0: 21:34:30 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 00002EE0: 21:34:30 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 00002EE0: 21:34:30 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 00002EE0: 21:34:30 [TUniGUISessionManager]:Waiting for session manager thread...
+nnTestPrj.exe: 000016F4: 21:36:08 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 000016F4: 21:36:08 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 000016F4: 21:36:08 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 000016F4: 21:36:08 [TUniServerModule]:Global Cache Folder Erased. <4> Files deleted.
+nnTestPrj.exe: 000016F4: 21:36:08 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 000016F4: 21:36:08 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 000016F4: 21:36:22 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 000016F4: 21:36:22 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 000016F4: 21:36:23 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 000016F4: 21:36:23 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 000016F4: 21:36:23 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 000016F4: 21:36:23 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 000016F4: 21:36:23 [TUniGUISessionManager]:Waiting for session manager thread...
+nnTestPrj.exe: 00002E7C: 21:36:57 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 00002E7C: 21:36:57 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 00002E7C: 21:36:57 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 00002E7C: 21:36:57 [TUniServerModule]:Global Cache Folder Erased. <4> Files deleted.
+nnTestPrj.exe: 00002E7C: 21:36:57 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 00002E7C: 21:36:57 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 00002E7C: 21:37:16 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 00002E7C: 21:37:16 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 00002E7C: 21:37:17 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 00002E7C: 21:37:17 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 00002E7C: 21:37:17 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 00002E7C: 21:37:17 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 00002E7C: 21:37:17 [TUniGUISessionManager]:Waiting for session manager thread...
+nnTestPrj.exe: 00004468: 21:38:48 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 00004468: 21:38:48 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 00004468: 21:38:48 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 00004468: 21:38:48 [TUniServerModule]:Global Cache Folder Erased. <4> Files deleted.
+nnTestPrj.exe: 00004468: 21:38:48 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 00004468: 21:38:48 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 00004468: 21:39:04 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 00004468: 21:39:04 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 00004468: 21:39:05 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 00004468: 21:39:05 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 00004468: 21:39:05 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 00004468: 21:39:05 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 00004468: 21:39:05 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 00004468: 21:39:05 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 00004468: 21:39:05 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 00004468: 21:39:05 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 00004468: 21:39:05 [Terminated]:Exit Code: 0
+nnTestPrj.exe: 000014DC: 21:41:34 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 000014DC: 21:41:34 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 000014DC: 21:41:34 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 000014DC: 21:41:34 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 000014DC: 21:41:34 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 000014DC: 21:41:49 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 000014DC: 21:41:49 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 000014DC: 21:41:50 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 000014DC: 21:41:50 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 000014DC: 21:41:50 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 000014DC: 21:41:50 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 000014DC: 21:41:50 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 000014DC: 21:41:50 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 000014DC: 21:41:50 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 000014DC: 21:41:50 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 000014DC: 21:41:50 [Terminated]:Exit Code: 0
+nnTestPrj.exe: 00001DB4: 21:44:14 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 00001DB4: 21:44:14 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 00001DB4: 21:44:14 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 00001DB4: 21:44:14 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 00001DB4: 21:44:14 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 00001DB4: 21:44:28 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 00001DB4: 21:44:28 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 00001DB4: 21:44:29 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 00001DB4: 21:44:29 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 00001DB4: 21:44:29 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 00001DB4: 21:44:29 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 00001DB4: 21:44:30 [TUniGUISessionManager]:Waiting for session manager thread...
+nnTestPrj.exe: 0000415C: 21:44:48 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 0000415C: 21:44:48 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 0000415C: 21:44:48 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 0000415C: 21:44:48 [TUniServerModule]:Global Cache Folder Erased. <4> Files deleted.
+nnTestPrj.exe: 0000415C: 21:44:48 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 0000415C: 21:44:48 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 0000415C: 21:45:00 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 0000415C: 21:45:00 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 0000415C: 21:45:01 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 0000415C: 21:45:01 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 0000415C: 21:45:01 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 0000415C: 21:45:01 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 0000415C: 21:45:01 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 0000415C: 21:45:01 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 0000415C: 21:45:01 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 0000415C: 21:45:01 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 0000415C: 21:45:01 [Terminated]:Exit Code: 0
+nnTestPrj.exe: 00004EE0: 21:45:33 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 00004EE0: 21:45:33 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 00004EE0: 21:45:33 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 00004EE0: 21:45:33 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 00004EE0: 21:45:33 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 00004EE0: 21:45:44 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 00004EE0: 21:45:44 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 00004EE0: 21:45:45 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 00004EE0: 21:45:45 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 00004EE0: 21:45:45 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 00004EE0: 21:45:45 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 00004EE0: 21:45:45 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 00004EE0: 21:45:45 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 00004EE0: 21:45:45 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 00004EE0: 21:45:45 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 00004EE0: 21:45:45 [Terminated]:Exit Code: 0
+nnTestPrj.exe: 000023F0: 21:47:13 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 000023F0: 21:47:13 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 000023F0: 21:47:13 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 000023F0: 21:47:13 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 000023F0: 21:47:13 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 000023F0: 21:47:29 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 000023F0: 21:47:29 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 000023F0: 21:47:30 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 000023F0: 21:47:30 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 000023F0: 21:47:30 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 000023F0: 21:47:30 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 000023F0: 21:47:30 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 000023F0: 21:47:30 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 000023F0: 21:47:30 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 000023F0: 21:47:30 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 000023F0: 21:47:30 [Terminated]:Exit Code: 0
+nnTestPrj.exe: 000017CC: 21:54:37 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 000017CC: 21:54:37 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 000017CC: 21:54:37 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 000017CC: 21:54:37 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 000017CC: 21:54:37 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 000017CC: 21:54:55 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 000017CC: 21:54:55 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 000017CC: 21:54:56 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 000017CC: 21:54:56 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 000017CC: 21:54:56 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 000017CC: 21:54:56 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 000017CC: 21:54:56 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 000017CC: 21:54:56 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 000017CC: 21:54:56 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 000017CC: 21:54:56 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 000017CC: 21:54:56 [Terminated]:Exit Code: 0
+nnTestPrj.exe: 000036AC: 22:01:45 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 000036AC: 22:01:45 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 000036AC: 22:01:45 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 000036AC: 22:01:45 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 000036AC: 22:01:45 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 00004EFC: 22:01:48 [[FireDAC][Phys][SQLite]-306. Command text must not be empty-127.0.0.1]:EFDException : [FireDAC][Phys][SQLite]-306. Command text must not be empty : Addr: $00878512
+nnTestPrj.exe: 000036AC: 22:02:04 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 000036AC: 22:02:04 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 000036AC: 22:02:05 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 000036AC: 22:02:05 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 000036AC: 22:02:05 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 000036AC: 22:02:05 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 000036AC: 22:02:05 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 000036AC: 22:02:05 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 000036AC: 22:02:05 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 000036AC: 22:02:05 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 000036AC: 22:02:05 [Terminated]:Exit Code: 0
+nnTestPrj.exe: 00002A68: 22:02:45 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 00002A68: 22:02:45 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 00002A68: 22:02:45 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 00002A68: 22:02:45 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 00002A68: 22:02:45 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 00002A68: 22:02:57 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 00002A68: 22:02:57 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 00002A68: 22:02:58 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 00002A68: 22:02:58 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 00002A68: 22:02:58 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 00002A68: 22:02:58 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 00002A68: 22:02:58 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 00002A68: 22:02:58 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 00002A68: 22:02:58 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 00002A68: 22:02:58 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 00002A68: 22:02:58 [Terminated]:Exit Code: 0
+nnTestPrj.exe: 00004738: 22:14:28 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 00004738: 22:14:28 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 00004738: 22:14:28 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 00004738: 22:14:28 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 00004738: 22:14:28 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 00004738: 22:14:40 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 00004738: 22:14:40 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 00004738: 22:14:42 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 00004738: 22:14:42 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 00004738: 22:14:42 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 00004738: 22:14:42 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 00004738: 22:14:42 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 00004738: 22:14:42 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 00004738: 22:14:42 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 00004738: 22:14:42 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 00004738: 22:14:42 [Terminated]:Exit Code: 0
+nnTestPrj.exe: 00001128: 22:16:08 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 00001128: 22:16:08 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 00001128: 22:16:08 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 00001128: 22:16:09 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 00001128: 22:16:09 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 00001128: 22:16:21 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 00001128: 22:16:21 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 00001128: 22:16:22 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 00001128: 22:16:22 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 00001128: 22:16:22 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 00001128: 22:16:23 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 00001128: 22:16:23 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 00001128: 22:16:23 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 00001128: 22:16:23 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 00001128: 22:16:23 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 00001128: 22:16:23 [Terminated]:Exit Code: 0
+nnTestPrj.exe: 00004358: 22:23:20 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 00004358: 22:23:20 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 00004358: 22:23:20 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 00004358: 22:23:20 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 00004358: 22:23:20 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 00004358: 22:23:36 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 00004358: 22:23:36 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 00004358: 22:23:37 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 00004358: 22:23:37 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 00004358: 22:23:37 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 00004358: 22:23:37 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 00004358: 22:23:37 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 00004358: 22:23:37 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 00004358: 22:23:37 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 00004358: 22:23:37 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 00004358: 22:23:37 [Terminated]:Exit Code: 0
+nnTestPrj.exe: 00004AA0: 22:26:42 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 00004AA0: 22:26:42 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 00004AA0: 22:26:42 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 00004AA0: 22:26:42 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 00004AA0: 22:26:42 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 00004AA0: 22:27:00 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 00004AA0: 22:27:00 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 00004AA0: 22:27:01 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 00004AA0: 22:27:01 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 00004AA0: 22:27:01 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 00004AA0: 22:27:01 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 00004AA0: 22:27:01 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 00004AA0: 22:27:01 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 00004AA0: 22:27:01 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 00004AA0: 22:27:01 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 00004AA0: 22:27:01 [Terminated]:Exit Code: 0
+nnTestPrj.exe: 00003480: 22:27:19 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 00003480: 22:27:20 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 00003480: 22:27:20 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 00003480: 22:27:20 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 00003480: 22:27:20 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 00003E88: 22:30:25 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 00003E88: 22:30:25 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 00003E88: 22:30:25 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 00003E88: 22:30:26 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+nnTestPrj.exe: 00003E88: 22:30:26 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 00003E88: 22:30:26 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 00003E88: 22:31:00 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 00003E88: 22:31:00 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 00003E88: 22:31:02 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 00003E88: 22:31:02 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 00003E88: 22:31:02 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 00003E88: 22:31:02 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 00003E88: 22:31:02 [TUniGUISessionManager]:Waiting for session manager thread...
+nnTestPrj.exe: 00003FB0: 22:33:00 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 00003FB0: 22:33:00 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 00003FB0: 22:33:00 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 00003FB0: 22:33:00 [TUniServerModule]:Global Cache Folder Erased. <4> Files deleted.
+nnTestPrj.exe: 00003FB0: 22:33:00 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 00003FB0: 22:33:00 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 00003FB0: 22:33:24 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 00003FB0: 22:33:24 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 00003FB0: 22:33:24 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 00003FB0: 22:33:24 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 00003FB0: 22:33:24 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 00003FB0: 22:33:24 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 00003FB0: 22:33:24 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 00003FB0: 22:33:24 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 00003FB0: 22:33:24 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 00003FB0: 22:33:24 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 00003FB0: 22:33:24 [Terminated]:Exit Code: 0
+nnTestPrj.exe: 000029D4: 22:33:51 []:>--------------------------------------------------------------<
+nnTestPrj.exe: 000029D4: 22:33:51 [TUniServerModule]:Server First Init.
+nnTestPrj.exe: 000029D4: 22:33:51 [TUniServerModule]:Debug Mode = ON
+nnTestPrj.exe: 000029D4: 22:33:51 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+nnTestPrj.exe: 000029D4: 22:33:51 [TUniServerModule]:HTTP Server Started on Port: 8077
+nnTestPrj.exe: 000029D4: 22:34:35 [TUniServerModule]:Shutting Down Server.
+nnTestPrj.exe: 000029D4: 22:34:35 [TUniServerModule]:Stopping HTTP Server.
+nnTestPrj.exe: 000029D4: 22:34:37 [TUniServerModule]:HTTP Server Stopped.
+nnTestPrj.exe: 000029D4: 22:34:37 [TUniGUISessionManager]:Terminating Session manager.
+nnTestPrj.exe: 000029D4: 22:34:37 [TUniGUISessionManager]:Stopping Cache Eraser...
+nnTestPrj.exe: 000029D4: 22:34:37 [TUniGUISessionManager]:Cache Eraser Stopped.
+nnTestPrj.exe: 000029D4: 22:34:37 [TUniGUISessionManager]:Destroying Worker Threads.
+nnTestPrj.exe: 000029D4: 22:34:37 [TUniGUISessionManager]:Session manager terminated.
+nnTestPrj.exe: 000029D4: 22:34:37 [TUniServerModule]:Server Shutdown Completed.
+nnTestPrj.exe: 000029D4: 22:34:37 []:<-------------------------------------------------------------->
+nnTestPrj.exe: 000029D4: 22:34:37 [Terminated]:Exit Code: 0

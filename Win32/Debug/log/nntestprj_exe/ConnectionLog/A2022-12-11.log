@@ -1,0 +1,9 @@
+nnTestPrj.exe: 00004974: 19:29:00 [127.0.0.1]:Failed Sequence Recovery: SeqId: 15, Event: click
+nnTestPrj.exe: 00004974: 19:29:20 [127.0.0.1]:Sequence sent from cache:  SeqId: 15
+nnTestPrj.exe: 00004974: 19:29:20 [127.0.0.1]:Processed: Id: 15, Evt: click, [7oAGljapDl10BAA5AE9]
+nnTestPrj.exe: 00003430: 19:29:20 [127.0.0.1]:Failed Sequence Recovery: SeqId: 15, Event: click
+nnTestPrj.exe: 00003430: 19:29:20 [127.0.0.1]:Sequence sent from cache:  SeqId: 15
+nnTestPrj.exe: 00003430: 19:29:20 [127.0.0.1]:Processed: Id: 15, Evt: click, [7oAGljapDl10BAA5AE9]
+nnTestPrj.exe: 0000257C: 19:34:52 [127.0.0.1]:Failed Sequence Recovery: SeqId: 12, Event: click
+nnTestPrj.exe: 0000257C: 19:34:52 [127.0.0.1]:Sequence sent from cache:  SeqId: 12
+nnTestPrj.exe: 0000257C: 19:34:52 [127.0.0.1]:Processed: Id: 12, Evt: click, [W7BznSx5BN10BAA5C8D]
